@@ -1,0 +1,12 @@
+body
+{
+    text-align: center;
+    background-color: blue;
+    padding-top: 20px;
+}
+.line
+{
+    height: 6px;
+    background-color: crimson;
+    width: 70px;
+    margin: 8px auto;
